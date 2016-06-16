@@ -5,8 +5,6 @@ Tested with Kodi 15.2 & 16 on Windows.
 
 Keymap is actually rudimental, but it should work for most commands.
 
-Download: https://github.com/marbink/ArdCEC-Kodi-Addon/blob/master/service.kodi.ardcecconnector.zip?raw=true
-
 ## Requirements
 - Arduino with my ArdCec sketches (https://github.com/marbink/ArdCEC)
 
