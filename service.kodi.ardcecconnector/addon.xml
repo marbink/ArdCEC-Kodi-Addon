@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="service.kodi.ardcecconnector" name="KODI ArdCEC Connector" version="1.0" provider-name="marbink"> <!-- Unique ID and name of the addon -->
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.service" library="default.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Read ArdCEC Commands from serial.</summary>
+  </extension>
+</addon>

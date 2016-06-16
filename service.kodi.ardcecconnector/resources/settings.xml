@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="Serial Port Settings">
+        <setting label="COM Port (example: COM1) / Linux serial path (example: /dev/ttyUBS0)" type="text"   id="serialport" default=""/>
+    </category>
+</settings>
